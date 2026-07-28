@@ -3,4 +3,4 @@
  and there is a sound whenever u activate the macro .
 [click this to get the app](https://github.com/bufyh/roblox-slap-battles-auto-rhythm/releases/tag/robloxslapbattles)
 its all python
- how it looks.png
+ ![preview](Screenshot_3.png)
