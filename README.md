@@ -1,6 +1,15 @@
-# roblox-slap-battles-auto-rhythm
- its super customisable u can switch if u want yellow purple or white u can switch ,  u can switch what keybind u activate the macro
- and there is a sound whenever u activate the macro .
-[click this to get the app](https://github.com/bufyh/roblox-slap-battles-auto-rhythm/releases/tag/robloxslapbattles)
-its all python
-![preview](Screenshot_3.png)
+ roblox-slap-battles-auto-rhythm
+
+auto rhythm macro for slap battles. it clicks the color it should hit based on the note that shows up
+
+- purple (kinda buggy rn, doesnt always work)
+- white
+- yellow
+
+pick your own keybind to activate it, plays a sound when it u activate it
+
+[click here to get the app](https://github.com/bufyh/roblox-slap-battles-auto-rhythm/releases/tag/robloxslapbattles)
+
+all python
+
+![preview](Screenshot_3.png) 
